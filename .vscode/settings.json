@@ -3,5 +3,14 @@
         "requests"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "workbench.colorCustomizations": {
+        "editorError.foreground": "#ff000088",
+        "editorWarning.foreground": "#ffe60033",
+        "editorInfo.foreground": "#00ff0000"
+    },
+    "python.linting.flake8Enabled": true,
+    "python.analysis.autoImportCompletions": false,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false
 }
